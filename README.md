@@ -14,7 +14,9 @@ To determine what factors can show us the most about what leads to success and w
 ## Results
 - As for results of our data raging the launch date.
 The greatest rate of successful plays come out in the early summer and that number drops off significantly in the fall going into the beginning of the year.
-The most plays 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102111669/162034191-dcd59c4c-8220-47f5-ac75-4a05536038ca.png)
+
+![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/102111669/162034213-83da41f9-f871-422f-9e04-37ffed605542.png)
 
 - Looking into the data we observed regarding outcomes based on goals.
 When judging the success of plays based on their financial goal, the plays with a goal in the ranges of 1000 - 15000 as well as 35000 to 40000, with plays of other goals between and above those ranges showing a higher number failing to reach their goal than successfully reaching it. Particularly at the 45000 mark and above showing very few successful.
