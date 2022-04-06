@@ -24,5 +24,5 @@ When judging the success of plays based on their financial goal, the plays with 
 The two factors we dug into were time of release and financial goal. There are many other factors we could look at to determine success rate. Many other factors could be considered when creating a new play or film to break it down further included with this data such as genre and target audience for one example.
 
 # What are some other possible tables and/or graphs that we could create?
-- 
+- Other factors that could have been considered are number of backers as it would seen likely that would positivley correspond to the success rate. Another could be average donation which would seem that the higher that average is the more likely for success. However that may not outweigh projects with lots of smaller donations. Whether or not it was a staff pick or spotlight could also be worth comparing.
 
